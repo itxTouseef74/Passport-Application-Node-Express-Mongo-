@@ -23,7 +23,7 @@ Before running the application, ensure you have the following:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/itxTouseef74/Passport-Application-Node-Express-Mongo-
+   git clone git@github.com:itxTouseef74/Passport-Application-Node-Express-Mongo-.git
    ```
 
 2. Navigate to the project directory:
